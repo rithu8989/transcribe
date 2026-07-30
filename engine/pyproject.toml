@@ -1,0 +1,10 @@
+[project]
+name = "transcriber-engine"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "llvmlite>=0.43",
+    "numba>=0.60",
+    "parakeet-mlx>=0.5.2",
+    "whispermlx>=3.12.2",
+]
